@@ -15,7 +15,7 @@ client.on('messageCreate', async msg => {
             setTimeout( function() {
                 msg.channel.send("思い詰めなくても結構人生何とかなりますよ、(笑)")
             }, 5000 );
-        }, 6000 );
+        }, 6000 ); 
     }, 5000 );
 }
 })
@@ -36,4 +36,4 @@ client.on('messageCreate', async msg=> {
     }
   })
 
-client.login("")
+client.login("a")
