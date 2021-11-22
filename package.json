@@ -1,0 +1,23 @@
+{
+  "name": "littlehiroyuki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KotoneAoi/LittleHiroyuki.git"
+  },
+  "keywords": [],
+  "author": "halu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KotoneAoi/LittleHiroyuki/issues"
+  },
+  "homepage": "https://github.com/KotoneAoi/LittleHiroyuki#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
